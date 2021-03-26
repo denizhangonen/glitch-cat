@@ -757,6 +757,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 5167006183854860156, guid: 56ff9a17e174043dda900f249832fc45,
     type: 3}
+  gun: {fileID: 1496689100}
 --- !u!4 &2030033474 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8599805236153863141, guid: 0ac52f6797d564c938fbcf8da28315fe,
